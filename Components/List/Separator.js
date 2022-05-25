@@ -2,7 +2,9 @@ import React from 'react'
 
 const Separator = () => {
   return (
-    <div>Separator</div>
+    <div>
+      Separator
+    </div>
   )
 }
 

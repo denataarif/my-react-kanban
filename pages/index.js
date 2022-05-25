@@ -3,13 +3,13 @@ import List from '../Components/List'
 
 const Home = () => {
   return (
-    <>
-      <h1>My Kanban Board</h1>
+    <div className='bg-[#F2F2FA]'>
+      <h1 className='text-3xl font-bold'>My Kanban Board</h1>
       <List />
       <List />
       <List />
       <List />
-    </>
+    </div>
   )
 }
 

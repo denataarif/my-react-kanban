@@ -2,7 +2,9 @@ import React from 'react'
 
 const CoverImage = () => {
   return (
-    <div>CoverImage</div>
+    <div>
+      <img src="images/cover-01.png" height="120px" width="260px" className=''/>
+    </div>
   )
 }
 
